@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic; // <--- OBLIGATORIO para usar Listas
-
-namespace GestorTareas
+﻿namespace GestorTareas
 {
     internal class Program
     {

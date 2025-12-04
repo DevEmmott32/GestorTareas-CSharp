@@ -1,4 +1,4 @@
-namespace GestorTareas
+ namespace GestorTareas
 {
     public class Tarea
     {
